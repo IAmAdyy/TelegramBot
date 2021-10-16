@@ -1,0 +1,11 @@
+{
+  "name": "TelegramBot",
+  "description": "Simple Telegram Bot",
+  "repository": "https://github.com/IAmAdyy/TelegramBot",
+  "logo": "https://telegra.ph/file/5c82f796d46fa8857dbed.jpg",
+  "keywords": [
+    "bot",
+    "telegram",
+    "telegram-bot"
+  ]
+}
