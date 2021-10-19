@@ -40,7 +40,7 @@ src="https://img.shields.io/badge/Telegram%20Bot-red?colorA=red&colorB=%23017e40
 
 
 # INSTALLATION ( WINDOWS, RDP )
-Install these packages
+Prerequisites
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 ```cmd
